@@ -43,6 +43,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 20.32 62.23)
+		(size 45.72 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "5e73d9b5-e847-4a8e-b0f2-659dfc93cbaf")
+		(property "Sheetname" "LTC4088"
+			(at 20.32 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LTC4088.kicad_sch"
+			(at 20.32 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Template"
+				(path "/251827e7-9515-4eb7-984d-8b86837d4b30"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
