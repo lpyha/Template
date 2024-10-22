@@ -81,6 +81,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 20.32 100.33)
+		(size 45.72 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "c43323f0-476e-4b9f-92da-cf6d01a9204e")
+		(property "Sheetname" "TPS63021"
+			(at 20.32 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TPS63021.kicad_sch"
+			(at 20.32 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Template"
+				(path "/251827e7-9515-4eb7-984d-8b86837d4b30"
+					(page "4")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
