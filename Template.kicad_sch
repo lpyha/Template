@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 20.32 20.32)
+		(at 26.67 20.32)
 		(size 45.72 34.29)
 		(fields_autoplaced yes)
 		(stroke
@@ -18,7 +18,7 @@
 		)
 		(uuid "289f7e03-e586-473e-b3f3-e2d174039499")
 		(property "Sheetname" "LTC4417"
-			(at 20.32 19.6084 0)
+			(at 26.67 19.6084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,13 +27,53 @@
 			)
 		)
 		(property "Sheetfile" "LTC4417.kicad_sch"
-			(at 20.32 55.1946 0)
+			(at 26.67 55.1946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "V_{OUT}" output
+			(at 72.39 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3412e9f5-e253-4793-bd25-d49ea5f1d4aa")
+		)
+		(pin "V_{IN}1" input
+			(at 26.67 27.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "61252bf7-1003-46de-8053-d5be71ea3474")
+		)
+		(pin "V_{IN}2" input
+			(at 26.67 38.1 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f2e96ab2-6f00-4ad5-81ff-f0f783f0d144")
+		)
+		(pin "V_{IN}3" input
+			(at 26.67 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4dd12761-de69-458b-88db-d7ef64f4bd8d")
 		)
 		(instances
 			(project "Template"
@@ -44,7 +84,7 @@
 		)
 	)
 	(sheet
-		(at 20.32 62.23)
+		(at 26.67 62.23)
 		(size 45.72 31.75)
 		(fields_autoplaced yes)
 		(stroke
@@ -56,7 +96,7 @@
 		)
 		(uuid "5e73d9b5-e847-4a8e-b0f2-659dfc93cbaf")
 		(property "Sheetname" "LTC4088"
-			(at 20.32 61.5184 0)
+			(at 26.67 61.5184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,13 +105,33 @@
 			)
 		)
 		(property "Sheetfile" "LTC4088.kicad_sch"
-			(at 20.32 94.5646 0)
+			(at 26.67 94.5646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "VCC" output
+			(at 72.39 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "685175ca-df0f-434a-9c13-c7771a81126a")
+		)
+		(pin "VBUS" input
+			(at 26.67 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c7475d35-d01e-4a04-9d0f-712aa9dbd0f7")
 		)
 		(instances
 			(project "Template"
@@ -82,7 +142,7 @@
 		)
 	)
 	(sheet
-		(at 20.32 100.33)
+		(at 26.67 100.33)
 		(size 45.72 30.48)
 		(fields_autoplaced yes)
 		(stroke
@@ -94,7 +154,7 @@
 		)
 		(uuid "c43323f0-476e-4b9f-92da-cf6d01a9204e")
 		(property "Sheetname" "TPS63021"
-			(at 20.32 99.6184 0)
+			(at 26.67 99.6184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -103,13 +163,33 @@
 			)
 		)
 		(property "Sheetfile" "TPS63021.kicad_sch"
-			(at 20.32 131.3946 0)
+			(at 26.67 131.3946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "V_{IN}" input
+			(at 26.67 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "867c3e05-e323-4623-ba3e-6e60e6e3d4f3")
+		)
+		(pin "V_{OUT}3.3V" output
+			(at 72.39 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "03df8051-16b8-422f-9ad9-62d37062a440")
 		)
 		(instances
 			(project "Template"
