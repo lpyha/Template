@@ -142,6 +142,74 @@
 		)
 	)
 	(sheet
+		(at 26.67 138.43)
+		(size 45.72 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "a305acfa-3892-4a1f-bd0a-b1b46ee32768")
+		(property "Sheetname" "USB-PD"
+			(at 26.67 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB-PD.kicad_sch"
+			(at 26.67 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VBUS" output
+			(at 72.39 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1c967b86-68b8-4cc7-ac6b-770ad47f8a84")
+		)
+		(pin "USB_D+" output
+			(at 72.39 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b803f424-b187-4d89-b811-bb94e69f240e")
+		)
+		(pin "USB_D-" output
+			(at 72.39 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4fca0391-d25f-4080-afd9-2b781ae8d180")
+		)
+		(instances
+			(project "Template"
+				(path "/251827e7-9515-4eb7-984d-8b86837d4b30"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 26.67 100.33)
 		(size 45.72 30.48)
 		(fields_autoplaced yes)

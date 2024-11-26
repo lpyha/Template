@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "LTC4088")(type "KiCad")(uri "${KIPRJMOD}/lib/LTC4088EDE_TRPBF/LTC4088.pretty")(options "")(descr ""))
   (lib (name "TPS63021DSJR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS63021DSJR")(options "")(descr ""))
+  (lib (name "TPD2E2U06DRLR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPD2E2U06DRLR")(options "")(descr ""))
 )

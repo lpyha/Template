@@ -590,6 +590,10 @@
     [
       "c43323f0-476e-4b9f-92da-cf6d01a9204e",
       "TPS63021"
+    ],
+    [
+      "a305acfa-3892-4a1f-bd0a-b1b46ee32768",
+      "USB-PD"
     ]
   ],
   "text_variables": {}
