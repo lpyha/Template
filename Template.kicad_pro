@@ -594,6 +594,10 @@
     [
       "a305acfa-3892-4a1f-bd0a-b1b46ee32768",
       "USB-PD"
+    ],
+    [
+      "714b9be8-972d-4a8c-865b-56dd3d7d1a91",
+      "Crystal"
     ]
   ],
   "text_variables": {}

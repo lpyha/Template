@@ -142,6 +142,44 @@
 		)
 	)
 	(sheet
+		(at 26.67 171.45)
+		(size 48.26 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "714b9be8-972d-4a8c-865b-56dd3d7d1a91")
+		(property "Sheetname" "Crystal"
+			(at 26.67 170.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Crystal.kicad_sch"
+			(at 26.67 196.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Template"
+				(path "/251827e7-9515-4eb7-984d-8b86837d4b30"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 26.67 138.43)
 		(size 45.72 26.67)
 		(fields_autoplaced yes)
